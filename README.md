@@ -10,7 +10,7 @@ Instructor: Dr. Chris Jordan G. Aliac
 This is a digital image processing program created in C#. The program can save the processed image onto an image file.
 
 ## Features (with images)
-- Basic Copy 
+- Basic Copy ![Basic Copy](https://user-images.githubusercontent.com/111829440/206372356-a5aad595-1d55-4f02-9ba6-adaf10e083d7.jpg)
 - Greyscale
 - Color Inversion 
 - Histogram 
