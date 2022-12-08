@@ -206,7 +206,7 @@ namespace cs345_barcenilla_f1_image_processing
             // change greenscreen of imageB to imageA
             Bitmap resultImage = new Bitmap(imageA.Width, imageA.Height);
 
-            Color mygreen = Color.FromArgb(0, 254, 103);
+            Color mygreen = Color.FromArgb(0, 255, 0);
             int greygreen = (mygreen.R + mygreen.G + mygreen.B) / 3;
             int threshold = 5;
 
