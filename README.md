@@ -14,7 +14,9 @@ This is a digital image processing program created in C#. The program can save t
 ## Features (with images)
 
 <p align="center">
-  - **Basic Copy**
+  **Basic Copy**
+</p>
+<p align="center">
   <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206373553-5a58c465-3862-4661-841c-a1e9b34d6413.jpeg">
 </p>
 
