@@ -1,6 +1,6 @@
 # Digital Image Processing by Barcenilla, Adrian Jay
 
-DIP Activities Parts 1 and 2
+DIP Activities Parts 1 and 2. All documentation for both activities are written below.
 
 CS345 - F1
 
@@ -62,3 +62,4 @@ This is a digital image processing program created in C#. The program can save t
   <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206375038-906b40ff-ab50-4e3c-97d5-f8595d54e094.jpeg">
 </p>
 
+# Part 2 - Subtraction
