@@ -63,3 +63,5 @@ This is a digital image processing program created in C#. The program can save t
 </p>
 
 # Part 2 - Subtraction
+![image](https://user-images.githubusercontent.com/111829440/206376223-b602d472-2cb9-4b77-a206-621683951679.png)
+
