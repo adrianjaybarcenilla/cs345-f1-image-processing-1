@@ -13,8 +13,9 @@ This is a digital image processing program created in C#. The program can save t
 
 ## Features (with images)
 - Basic Copy
-
-![Basic Copy](https://user-images.githubusercontent.com/111829440/206373553-5a58c465-3862-4661-841c-a1e9b34d6413.jpeg)
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/111829440/206373553-5a58c465-3862-4661-841c-a1e9b34d6413.jpeg)">
+</p>
 
 - Greyscale
 - Color Inversion 
