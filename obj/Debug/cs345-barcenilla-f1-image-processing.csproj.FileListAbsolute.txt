@@ -1,0 +1,15 @@
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345-barcenilla-f1-image-processing.csproj.AssemblyReference.cache
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345-barcenilla-f1-image-processing.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.ImageProcessor.resources
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345-barcenilla-f1-image-processing.csproj.GenerateResource.cache
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\bin\Debug\cs345_barcenilla_f1_image_processing.exe.config
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\bin\Debug\cs345_barcenilla_f1_image_processing.exe.manifest
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\bin\Debug\cs345_barcenilla_f1_image_processing.application
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\bin\Debug\cs345_barcenilla_f1_image_processing.exe
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\bin\Debug\cs345_barcenilla_f1_image_processing.pdb
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.Properties.Resources.resources
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345-barcenilla-f1-image-processing.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.exe.manifest
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.application
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.exe
+C:\Users\adrian\Source\Repos\SUMALINOG_DIP\SUMALINOG_DIP\SUMALINOG_DIP\obj\Debug\cs345_barcenilla_f1_image_processing.pdb
