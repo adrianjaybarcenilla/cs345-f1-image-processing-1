@@ -15,4 +15,5 @@ This is a digital image processing program created in C#. The program can save t
 - Color Inversion 
 - Histogram 
 - Sepia 
+- Mirror (Horizontal and Vertical)
 
