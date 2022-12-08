@@ -41,8 +41,24 @@ This is a digital image processing program created in C#. The program can save t
   <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374716-f8cd8616-3577-47f9-8608-a4d74ae29817.jpeg">
 </p>
 
-- Sepia 
-- Mirror (Horizontal)
+<p align="center">
+  5. Sepia
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374907-f44ff779-1f6e-464c-80dc-169cad45661c.jpeg">
+</p>
 
-- Mirror (Vertical)
+<p align="center">
+  6a. Mirror (Horizontal)
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374972-29769213-abc6-4bd5-85ea-d55b3babe27c.jpeg">
+</p>
+
+<p align="center">
+  6b. Mirror (Vertical)
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206375038-906b40ff-ab50-4e3c-97d5-f8595d54e094.jpeg">
+</p>
 
