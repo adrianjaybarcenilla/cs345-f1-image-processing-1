@@ -14,16 +14,34 @@ This is a digital image processing program created in C#. The program can save t
 ## Features (with images)
 
 <p align="center">
-  **Basic Copy**
+  1. Basic Copy
 </p>
 <p align="center">
   <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206373553-5a58c465-3862-4661-841c-a1e9b34d6413.jpeg">
 </p>
 
-- Greyscale
-- Color Inversion 
-- Histogram 
-- Sepia 
+<p align="center">
+  2. Greyscale
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374403-678cc186-9324-46d5-952d-b0bf58703887.jpeg">
+</p>
+
+<p align="center">
+  3. Color Inversion
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374535-857cf5f2-f19c-4d12-a4d8-908645742437.jpeg">
+</p>
+
+<p align="center">
+  4. Histogram Graph
+</p>
+<p align="center">
+  <img width="25%" height="25%" src="https://user-images.githubusercontent.com/111829440/206374716-f8cd8616-3577-47f9-8608-a4d74ae29817.jpeg">
+</p>
+
+- Sepia 
 - Mirror (Horizontal)
 
 - Mirror (Vertical)
