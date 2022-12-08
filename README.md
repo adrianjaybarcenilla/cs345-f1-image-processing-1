@@ -5,3 +5,8 @@ DIP Activities Parts 1 and 2
 CS345 - F1
 
 Instructor: Dr. Chris Jordan G. Aliac
+
+# Part 1 - Image Processing and Editing
+## Test
+- Test
+Test
