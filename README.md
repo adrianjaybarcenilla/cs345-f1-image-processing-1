@@ -8,9 +8,11 @@ Instructor: Dr. Chris Jordan G. Aliac
 
 # Part 1 - Digital Image Processing Basic Controls
 This is a digital image processing program created in C#. The program can save the processed image onto an image file.
+![image](https://user-images.githubusercontent.com/111829440/206372777-41420802-26c8-487e-b629-0a3931056606.png)
+
 
 ## Features (with images)
-- Basic Copy ![Basic Copy](https://user-images.githubusercontent.com/111829440/206372356-a5aad595-1d55-4f02-9ba6-adaf10e083d7.jpg)
+- Basic Copy
 - Greyscale
 - Color Inversion 
 - Histogram 
