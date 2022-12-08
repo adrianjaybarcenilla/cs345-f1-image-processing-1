@@ -1,1 +1,4 @@
-# cs345-f1-image-processing-1 by Barcenilla, Adrian Jay
+# Digital Image Processing by Barcenilla, Adrian Jay
+DIP Activities Parts 1 and 2
+CS345 - F1
+Instructor: Dr. Chris Jordan G. Aliac
